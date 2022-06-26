@@ -1,4 +1,4 @@
-from Game import *
+from game import *
 
 RESOLUTION = (1280, 720)
 
